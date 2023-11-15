@@ -306,7 +306,9 @@ body {
 }
 .big-banner-box-area .associates {
   display: flex;
-  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 100%;
 }
 .big-banner-box-area .associates a {
   display: inline-block;
@@ -445,7 +447,7 @@ body {
 }
 .partners-box-area a img {
   height: 80px;
-  opacity: 0.5;
+  opacity: 0.7;
   transition: opacity 0.4s;
 }
 
