@@ -354,7 +354,7 @@ body {
 }
 .video-wrapper p {
   color: #FFF;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-style: normal;
   font-weight: 500;
   line-height: 2.1875rem;
@@ -388,7 +388,7 @@ body {
   text-align: center;
 }
 .inner-box-txt h5 {
-  color: #FFF;
+  color: #FFFFFFA0;
   font-size: 2.625rem;
   font-style: normal;
   font-weight: 600;
@@ -567,7 +567,7 @@ body {
 
 
 .partners-area h6 {
-  color: #FFF;
+  color: #FFFFFFA0;
   font-weight: 700;
 }
 
