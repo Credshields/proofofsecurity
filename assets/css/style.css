@@ -434,7 +434,7 @@ body {
   margin: 0.5rem 0;
   display: inline-flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
   flex-direction: row;
   width: 100%;
 }
@@ -454,12 +454,13 @@ body {
 
 .inner-box-txt .data-schedule h6 {
   color: #FFF;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-style: normal;
   font-weight: 500;
-  line-height: normal;
+  line-height: 2rem;
   letter-spacing: -0.025rem;
   display: flex;
+  margin-left: 0.3rem;
   align-items: center;
   justify-content: center;
 }
